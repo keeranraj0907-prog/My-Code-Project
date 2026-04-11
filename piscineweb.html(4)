@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Two Boxes</title>
+<style>
 
+table {
+width: 100%;
+border-collapse: collapse;
+}
+td {
+border: 2 px;
+padding: 30 px;
+text-align: center;
+font-size: 15px;
+color: white;
+}
+<style>
+</head>
+<body>
+
+<h2> Web Page with Two Horizontal Boxes</h2>
+<table>
+<tr>
+<td style="background-color: green;">My Green Box Text</td>
+<td style="background-color: blue;">My Blue Box Text</td>
+<tr>
+</table>
+
+</body>
+</html>
