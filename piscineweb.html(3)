@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basics</title>
+</head>
+<body style="background-color:pink";>
 
+<h1 style="text-align:center; color: white;font-size: 64px;/*makes it bigger*">So bigger@</h1>
+
+  <div style="display:flex; justify-content:center; gap:40px; text-align:center;">
+        
+        <div>
+            <img src="https://www.uow.edu.my/wp-content/uploads/2020/06/parcel-paper-cartons-with-shopping-cart-logo-trolley-laptop-keyboard_9635-3215.jpg"style="width:300px; height;200px; object-fit:cover;">
+            <br>
+            <a href="https://www.amazon.com" target="_blank">Amazon</a>
+        </div>
+        
+        <div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjqRmqb8EOfYTGf9B9XhLSzJWMEZCn8WPjyw&s"style="width:300px; height:200px; object-fit:cover;">
+            <br>
+            <a href="https://www.ebay.com" target="_blank">eBay</a>
+        </div>
+        
+        
+    </div> 
+    <hr>
+    
+    <p style="text-align:right; font-style:italic; font-family:monospace;"> @keeran 2026
+    </p>
+
+</body>
+</html>
